@@ -1,7 +1,7 @@
 import discord
 from datetime import datetime, timedelta
 
-TOKEN = 'Nzc5MzU5MjQwNTg5NjcyNDY4.X7fY2g.NG9RvJTyfIdkDx46bXGjR4N-5cY'
+#TOKEN = 'Nzc5MzU5MjQwNTg5NjcyNDY4.X7fY2g.NG9RvJTyfIdkDx46bXGjR4N-5cY'
 #SERVER = 'BotTestingGround'
 SERVER = 'NITRO BOOSTED COMMUNE'
 
